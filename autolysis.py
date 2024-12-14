@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1gF_hnn7kqoqMNOg5H8OGPf2IdOEi2wqW
 """
 
-!pip install pandas seaborn matplotlib openai
 
-!pip install openai==0.27.8
 
 import pandas as pd
 import os
